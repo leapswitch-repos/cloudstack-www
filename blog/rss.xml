@@ -4,19 +4,10 @@
         <title>Apache CloudStack Blog</title>
         <link>https://cloudstack.apache.org/blog</link>
         <description>Apache CloudStack Blog</description>
-        <lastBuildDate>Thu, 25 May 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
-        <item>
-            <title><![CDATA[Test Blog]]></title>
-            <link>https://cloudstack.apache.org/blog/test-blog</link>
-            <guid>https://cloudstack.apache.org/blog/test-blog</guid>
-            <pubDate>Thu, 25 May 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Image alt]]></description>
-            <content:encoded><![CDATA[<p><img loading="lazy" alt="Image alt" src="/assets/images/test-blog-image-92264c3721dc0b6411859e62e583fc73.png" title="blog image title" width="2494" height="268" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="test-blog">Test Blog<a href="#test-blog" class="hash-link" aria-label="Direct link to Test Blog" title="Direct link to Test Blog">​</a></h2><p>Lorem ipsum.</p><p>Use the following wherever you want to blog post to say read more on the blog roll.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="sub-heading-123">Sub Heading 123<a href="#sub-heading-123" class="hash-link" aria-label="Direct link to Sub Heading 123" title="Direct link to Sub Heading 123">​</a></h3><p>Test list:</p><ul><li>Item 1</li><li>Item 2</li></ul><p>Example line with html link <a href="https://cloudstack.apache.org/" target="_blank" rel="noopener noreferrer">click me</a>.</p>]]></content:encoded>
-            <category>news</category>
-        </item>
         <item>
             <title><![CDATA[Meet Apache CloudStack at KubeCon + CloudNativeCon 2023]]></title>
             <link>https://cloudstack.apache.org/blog/meet-apache-cloudstack-at-kubecon</link>
