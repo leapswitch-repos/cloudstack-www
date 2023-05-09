@@ -2,15 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cloudstack.apache.org/blog</id>
     <title>Apache CloudStack Blog</title>
-    <updated>2023-05-03T00:00:00.000Z</updated>
+    <updated>2023-05-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cloudstack.apache.org/blog"/>
     <subtitle>Apache CloudStack Blog</subtitle>
     <icon>https://cloudstack.apache.org/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[CloudStack Blog Visual Guide]]></title>
+        <id>https://cloudstack.apache.org/blog/blog-visual-guide</id>
+        <link href="https://cloudstack.apache.org/blog/blog-visual-guide"/>
+        <updated>2023-05-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Testing visual guide]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" src="/assets/images/branch-upload-92264c3721dc0b6411859e62e583fc73.png" title="Blog branch file upload" width="2494" height="268" class="img_ev3q"></p><p>Testing visual guide</p>]]></content>
+        <author>
+            <name>Rohit Yadav</name>
+            <uri>https://github.com/rohityadavcloud</uri>
+        </author>
+        <category label="community" term="community"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Meet Rohit Yadav - the new VP of Apache CloudStack]]></title>
-        <id>https://cloudstack.apache.org/blog/meet-rohit-yadav-the-new-vp</id>
-        <link href="https://cloudstack.apache.org/blog/meet-rohit-yadav-the-new-vp"/>
+        <id>https://cloudstack.apache.org/blog/meet-rohit-yadav-the-new</id>
+        <link href="https://cloudstack.apache.org/blog/meet-rohit-yadav-the-new"/>
         <updated>2023-05-03T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Rohit Yadav]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="Rohit Yadav" src="/assets/images/header-79150c9f96db9e025aa858649bc15c73.jpg" title="Rohit Yadav - the new VP of Apache CloudStack" width="1200" height="628" class="img_ev3q"></p><p>The CloudStack Community is happy to announce Rohit Yadav as the new VP of the

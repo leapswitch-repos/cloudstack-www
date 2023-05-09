@@ -4,14 +4,23 @@
         <title>Apache CloudStack Blog</title>
         <link>https://cloudstack.apache.org/blog</link>
         <description>Apache CloudStack Blog</description>
-        <lastBuildDate>Wed, 03 May 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
+            <title><![CDATA[CloudStack Blog Visual Guide]]></title>
+            <link>https://cloudstack.apache.org/blog/blog-visual-guide</link>
+            <guid>https://cloudstack.apache.org/blog/blog-visual-guide</guid>
+            <pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Testing visual guide]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" src="/assets/images/branch-upload-92264c3721dc0b6411859e62e583fc73.png" title="Blog branch file upload" width="2494" height="268" class="img_ev3q"></p><p>Testing visual guide</p>]]></content:encoded>
+            <category>community</category>
+        </item>
+        <item>
             <title><![CDATA[Meet Rohit Yadav - the new VP of Apache CloudStack]]></title>
-            <link>https://cloudstack.apache.org/blog/meet-rohit-yadav-the-new-vp</link>
-            <guid>https://cloudstack.apache.org/blog/meet-rohit-yadav-the-new-vp</guid>
+            <link>https://cloudstack.apache.org/blog/meet-rohit-yadav-the-new</link>
+            <guid>https://cloudstack.apache.org/blog/meet-rohit-yadav-the-new</guid>
             <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Rohit Yadav]]></description>
             <content:encoded><![CDATA[<p><img loading="lazy" alt="Rohit Yadav" src="/assets/images/header-79150c9f96db9e025aa858649bc15c73.jpg" title="Rohit Yadav - the new VP of Apache CloudStack" width="1200" height="628" class="img_ev3q"></p><p>The CloudStack Community is happy to announce Rohit Yadav as the new VP of the
