@@ -2,11 +2,173 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cloudstack.apache.org/blog</id>
     <title>Apache CloudStack Blog</title>
-    <updated>2023-03-20T00:00:00.000Z</updated>
+    <updated>2023-04-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cloudstack.apache.org/blog"/>
     <subtitle>Apache CloudStack Blog</subtitle>
     <icon>https://cloudstack.apache.org/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1 Week to Go - CloudStack European User Group - May 4th, 2023]]></title>
+        <id>https://cloudstack.apache.org/blog/cloudstack-european-user-group-may1</id>
+        <link href="https://cloudstack.apache.org/blog/cloudstack-european-user-group-may1"/>
+        <updated>2023-04-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The European CloudStack Community is counting down the days until CloudStack]]></summary>
+        <content type="html"><![CDATA[<img loading="lazy" src="/img/imported/59255fe4-a752-4813-bb46-61a1089ace99" width="750" height="393" class="img_ev3q"><p>The <strong>European CloudStack Community</strong> is counting down the days until CloudStack
+European User Group 2023. The event will be taking place in London, in the
+Gandhi Room at Cifas, Tavistock Square, 7-12 Lynton House, <strong>London</strong>, WC1H 9LT.</p><p>Join technical talks, user stories, new features, integrations presentations and more!</p><p>Become part of the CSEUG on May 4th, 2023!</p><a href="https://www.eventbrite.co.uk/e/cloudstack-european-user-group-2023-tickets-513821653397" target="_blank" rel="noopener noreferrer" class="button button--primary">REGISTER FOR FREE</a><h4>Agenda:</h4><p>12:00 - 12:15 - Welcome, Giles Sirett, Chairman, CloudStack European User Group</p><p>12:15 - 12:45 - What’s new at CloudStack 4.18, Giles Sirett</p><p>12:55 - 13:25 - CloudStack Monitoring, Lucian Burlacu, ShapeBlue</p><p>13:35 - 14:05 - News about LINBIT SDS &amp; CloudStack, Philipp Reisner, LINBIT</p><p>14:05 - 14:30 - Coffee Break</p><p>14:30 - 15:00 - Re-using old hardware, thus saving money and the environment, Wido den Hollander, Your.Online</p><p>15:10- 15:40 - Network Service Chaining in Core and Edge Zones, Alexandre Mattioli, ShapeBlue</p><p>15:50 - 16:20 - A proposal - make changes in Apache CloudStack faster and low risk with vendor CI systems, Alex Ivanov, Niki Tenev, StorPool</p><p>16:30 - 17:00 - Dimsi and Backroll : What’s new/next release, Pierre Charton, Pierre de La Ville and Ousmane Diarra, Dimsi</p><h4>Meet the Speakers:</h4><p><strong>Giles Sirett</strong></p><p>Giles is a committer, PMC member of the Apache CloudStack project and Chairman
+of the European CloudStack User Group. He is also CEO &amp; founder of ShapeBlue,
+the leading independent CloudStack integrator &amp; consultancy. He has worked with
+many high-profile organisations, helping them strategise, design and implement
+CloudStack based clouds. Giles is an active contributor to the Apache CloudStack
+project and has spoken at all CloudStack Collaboration conferences, Linuxcon,
+and other events.</p><p><strong>Lucian Burlacu</strong></p><p>Lucian is a long-time sysadmin and Apache Cloustack user and contributor. He has
+a background in hosting, virtualisation and datacentre operations, but is now
+working full time on CloudStack.</p><p><strong>Phillip Reisner</strong></p><p>Philipp Reisner is founder and CEO of LINBIT in Vienna/Austria. His professional
+career has been dominated by developing DRBD, a storage replication for Linux.
+Today he leads a company of about 30 employees with locations in Vienna, Austria
+and Portland, Oregon.</p><p><strong>Wido den Hollander</strong></p><p>Wido den Hollander is the CTO at Your.online. Wido has been a part of the
+CloudStack community since 2012. Ever since he has contributed various parts of
+code like Ceph/RBD, IPv6, KVM and many other parts.</p><p><strong>Alexandre Mattioli</strong></p><p>Alexandre Mattioli is a highly experienced Infrastructure Architect who has been
+working with Apache Cloudstack since 2015, he has designed, built and operated
+one of the largest ACS clouds in existence and led a team to design and
+productise many diverse solutions on top of ACS. He's currently a Cloud
+Architect at ShapeBlue.</p><p><strong>Alex Ivanov</strong></p><p>Alex Ivanov is the Product Lead at StorPool Storage and is responsible for the
+product strategy and tactics at the company. He has experience in the storage
+market and a deep understanding of the needs and priorities of businesses
+managing large-scale clouds to run diverse, mission-critical workloads. At
+StorPool, he works closely with the team to evolve the StorPool primary storage
+platform and expand its capabilities and usefulness for various use cases. His
+goal - ensure StorPool cost-effectively delivers above and beyond what is
+possible with other primary storage products to help customers achieve their
+commercial and technical goals.</p><p><strong>Niki Tenev</strong></p><p>Niki is a Solutions Architect at StorPool Storage. He worked as a System
+Administrator for a decade, and later on, his interest and career gradually
+shifted to business and product development. Together with the StorPool team,
+Niki helps companies build resilient and agile clouds that fit the needs of
+their specific projects. In his spare time, Niki practices the technique of
+folding clothes while people are still in them (a.k.a. Brazilian Jiu-Jitsu).</p><p><strong>Pierre Charton</strong></p><p>Pierre is in charge of Backroll integration inside CloudStack for DIMSI. Pierre
+has a proven track record of successful c# and Java projects. When not playing
+with his keyboard, Pierre is surfing, WingFoiling or bodyboarding on the
+Brittany coast.</p><p><strong>The event will happen on May 4th, starting at 12pm GMT and finishing at 5pm GMT.</strong></p>]]></content>
+        <author>
+            <name>Ivet Petrova</name>
+            <uri>https://twitter.com/Ivet_H_Petrova</uri>
+        </author>
+        <category label="news" term="news"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflecting on KubeCon + CloudNativeCon 2023]]></title>
+        <id>https://cloudstack.apache.org/blog/reflecting-on-kubecon-cloudnativecon-2023</id>
+        <link href="https://cloudstack.apache.org/blog/reflecting-on-kubecon-cloudnativecon-2023"/>
+        <updated>2023-04-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For the first year, the Apache CloudStack Community has participated at KubeCon + CloudNativeCon- the Cloud Native Computing Foundation’s flagship conference,]]></summary>
+        <content type="html"><![CDATA[<img loading="lazy" src="/img/imported/e729f7ae-ebe1-474a-91f6-27c6a581b995" width="750" height="393" class="img_ev3q"><p>For the first year, the Apache CloudStack Community has participated at KubeCon + CloudNativeCon- the <a href="https://www.cncf.io/?_gl=1*x7ihno*_ga*MjA1MDg5MzgzMS4xNjc5OTAwNzUy*_ga_VWZ4V8CGRF*MTY4MjQwNDA5NC4xMS4wLjE2ODI0MDQwOTQuMC4wLjA." target="_blank" rel="noopener noreferrer">Cloud Native Computing Foundation</a>’s flagship conference,
+which gathers adopters and technologists from leading open source and cloud
+native communities. It has been a fantastic opportunity for us to represent our
+technology on the global stage, and meet engineers, DevOps and infrastructure
+experts. Community members have had the pleasure of running attendees through
+multiple CloudStack demos and answering their many questions about the
+open-source cloud management solution. We also had the opportunity to share the
+pitfalls, hacks, learnings, and key takeaways from
+<a href="https://www.youtube.com/watch?v=AR8JXotMir8&amp;t=44s" target="_blank" rel="noopener noreferrer">our journey to develop CAPC</a> –
+the CAPI Provider for Apache CloudStack.</p><h3>The CloudStack Booth</h3><img loading="lazy" src="/img/imported/7346597f-2b13-44c7-aa67-95eb337145c9" class="img_ev3q"><p>Community members representing and sharing knowledge of Apache CloudStack with
+the broader cloud industry had a thoroughly enjoyable time at the conference. We
+manage to engage with global cloud providers, telecoms, consulting companies,
+gaming companies and service providers.</p><img loading="lazy" src="/img/imported/40babcd3-3ee6-4b8f-8b05-a1ac8507c6ff" class="img_ev3q"><p>We discussed a lot with attendees on topics like building hybrid clouds, keeping
+infrastructure costs under control, decreasing cloud complexity, and ensuring
+the best infrastructure for running containers at scale while maintaining
+investments in infrastructure low.</p><img loading="lazy" src="/img/imported/bf09db74-8261-4f1d-9001-d1d7b4f1cf23" class="img_ev3q"><h3>Explore the Kubernetes Cluster API Provider for Apache CloudStack</h3><p>The Kubernetes Cluster API (CAPI) provider for Apache CloudStack allows
+Kubernetes users to build and manage resources on Apache CloudStack. The
+provider is available under the Apache 2 open-source license and is managed by
+the Cloud Native Computing Foundation (CNCF). The Cluster API brings
+declarative, Kubernetes-style APIs to cluster creation, configuration and
+management. The API itself is shared across multiple cloud providers allowing
+for true Apache CloudStack hybrid deployments of Kubernetes. It is built atop
+the lessons learned from previous cluster managers such as kops and kubicorn.</p><h3>Discover the Upcoming CloudStack Events</h3><p><strong>CloudStack European User Group</strong>: The next event that the Apache CloudStack
+community is hosting is the CloudStack European User Group, taking place on <strong>4th
+May</strong> in the Gandhi Room at Cifas, Tavistock Square, 7-12 Lynton House, <strong>London</strong>,
+WC1H 9LT. This event is an annual 1-day technical event for the European
+CloudStack community.</p><p>(<a href="https://www.eventbrite.co.uk/e/cloudstack-european-user-group-2023-tickets-513821653397" target="_blank" rel="noopener noreferrer">Click here to register for CSEUG</a>)</p><p><strong>CloudStack Collaboration Conference</strong>: Taking place on <strong>23-24th November</strong>,
+with the location to be announced in the new future, CCC is the most significant global
+CloudStack and open-source cloud builders event. The two-day hybrid event is
+aimed at developers, operators and users to discuss and evolve the open-source
+software project, its functionality and real-world operability. This event will
+introduce you to the CloudStack family, community leaders, project members and
+contributors. Registration details will be announced <strong>in the near future</strong>, so make
+sure to keep an eye out on the <a href="/mailing-lists">CloudStack mailing lists</a> of
+<a href="https://twitter.com/CloudStack" target="_blank" rel="noopener noreferrer">CloudStack’s social media channels</a>.</p><p>(<a href="https://www.cloudstackcollab.org/wp-content/uploads/2023/02/Sponsorship-Prospectus-CCC-2023.pdf" target="_blank" rel="noopener noreferrer">Learn about sponsorship
+opportunities</a>)</p><h3>Why Choose Apache CloudStack</h3><p>Apache CloudStack helps cloud builders solve their key challenges – costs,
+vendor lock-in and using fewer resources to manage tens of thousands of physical
+servers installed in geographically distributed data centers. The turnkey
+solution, made for cloud builders and managed service providers, is open-source
+and easy to implement, manage and scale - particularly when compared to
+alternative cloud orchestration platforms.</p><p>Download the latest CloudStack 4.18 release - <a href="https://bit.ly/3Koczl3" target="_blank" rel="noopener noreferrer">https://bit.ly/3Koczl3</a></p>]]></content>
+        <author>
+            <name>Ivet Petrova</name>
+            <uri>https://twitter.com/Ivet_H_Petrova</uri>
+        </author>
+        <category label="news" term="news"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 3 at CloudFest]]></title>
+        <id>https://cloudstack.apache.org/blog/day-3-at-cloudfest</id>
+        <link href="https://cloudstack.apache.org/blog/day-3-at-cloudfest"/>
+        <updated>2023-03-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It is day 3 at CloudFest. Apache CloudStack]]></summary>
+        <content type="html"><![CDATA[<a href="/img/imported/c199e71b-acd8-4caa-a08a-a36522ffa125"><img loading="lazy" src="/img/imported/c199e71b-acd8-4caa-a08a-a36522ffa125" width="750" height="393" class="img_ev3q"></a><p>It is day 3 at <a href="https://www.cloudfest.com/" target="_blank" rel="noopener noreferrer">CloudFest</a>. Apache CloudStack
+exhibiting at the conference has been nothing short of fantastic. Community
+members representing the technology have had the chance to meet many like-minded
+people and showcase the power of the leading open-source IaaS management
+solutions.</p><h2>Why Choose Apache CloudStack If You Are A Cloud Builder</h2><p>A problem that many businesses face when entering the public cloud market is
+finding the suitable software and partners which enable a rapid deployment for
+their customers. Often, it takes up a significant number of resources and can
+have a negative financial impact on the company if the wrong decision is made.</p><p>CloudStack is a turnkey solution for cloud builders and manages service
+providers. It is completely open-source, easy to implement, manage and scale.
+Powered by a large open-source community and following rapid release cycles,
+Apache CloudStack help cloud builders solve their key challenges – costs, vendor
+lock-in and using fewer resources to manage tens of thousands of physical
+servers installed in geographically distributed data centers.</p><h2>Why Attend CloudFest</h2><p>Whether you are still open to attending the last day of CloudFest tomorrow, or
+attending the event next year, we recommend all cloud specialists to join the
+event.</p><p>CloudFest in the #1 internet infrastructure event in the world, connecting the
+global cloud computing industry. It is the largest and most important cloud
+event of the year. The event gathers over 7000 attendees, making it the perfect
+place for networking, collaboration and attending some exciting sessions.</p><img loading="lazy" src="/img/imported/0b9ef48b-dc67-4f40-bfab-7db3d2162c59" class="img_ev3q"><h2>Today’s Sessions</h2><p>Some highlights of today’s sessions can be seen below. To see the event schedule
+in its entirety, visit the <a href="https://www.cloudfest.com/agenda" target="_blank" rel="noopener noreferrer">official event website</a>.</p><img loading="lazy" src="/img/imported/11ea3fea-4b0d-473b-8d0d-32641542c6be" class="img_ev3q"><img loading="lazy" src="/img/imported/fbc9fa75-fd48-413d-8866-3622f8eb53e3" class="img_ev3q"><img loading="lazy" src="/img/imported/2d95e42d-2b12-4c1e-b1ea-2ce0c91216d7" class="img_ev3q">]]></content>
+        <author>
+            <name>Ivet Petrova</name>
+            <uri>https://twitter.com/Ivet_H_Petrova</uri>
+        </author>
+        <category label="news" term="news"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day 2 at CloudFest]]></title>
+        <id>https://cloudstack.apache.org/blog/day-2-at-cloudfest</id>
+        <link href="https://cloudstack.apache.org/blog/day-2-at-cloudfest"/>
+        <updated>2023-03-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today marks the second day of CloudFest, the #1 internet infrastructure event in]]></summary>
+        <content type="html"><![CDATA[<a href="/img/imported/487d1056-5072-4756-bd2e-3d863a8000d0"><img loading="lazy" src="/img/imported/487d1056-5072-4756-bd2e-3d863a8000d0" width="750" height="393" class="img_ev3q"></a><p>Today marks the second day of <a href="https://www.cloudfest.com/" target="_blank" rel="noopener noreferrer">CloudFest</a>, the #1 internet infrastructure event in
+the world. As you may know, Apache CloudStack is an exhibitor at the conference,
+with a number of community members representing the technology and community.</p><h2>Come and Meet Apache CloudStack</h2><p>For attendees who are currently at the conference, we invite you to come and speak to us. Apache CloudStack’s booth is G19. Come and introduce yourself and discover the benefits of using an open-source technology for building a private cloud or delivering public cloud services. We are also keen to discuss Apache CloudStack with new potential users and technologies which would like to integrate with us.</p><img loading="lazy" src="/img/imported/b60375b1-33e8-4a40-bf89-4f5ba5527b0e" class="img_ev3q"><h2>What You Can Learn About CloudStack at CloudFest</h2><p>At CloudStack’s booth you can meet part of the most active contributors to the
+open-source project. This gives you a chance to discover the newest features and
+capabilities of CloudStack. Our community members will be happy also to organize
+a personalized CloudStack demo for you and to discuss what technologies can help
+you improve your cloud’s profitability and decrease the complexity of managing
+large-scale IaaS.</p><p>In addition, at the CloudStack booth you can find people from leading cloud
+providers, who will share their experience with the technology and will give
+valuable advice on building cloud infrastructure with it.</p><h2>Exploring CloudStack 4.18 Release</h2><p>All people who met us today found out exclusive details on the upcoming 4.18
+release. Our community members took the chance to showcase which are the new
+features within CloudStack and what advantages it gives to cloud providers.</p><h2>Sessions Highlights</h2><p>CloudFest Day 2 started with an agenda full of interesting talks from leading
+cloud providers and companies developing solutions for the industry. Part of the
+talks, which we found interesting are Distributed Cloud Computing: A New
+Approach by Akamai, The Resilient Hard Disk Drive (1984 to 2062) by Toshiba,
+Scalable Edge Data Centers: Current Challenges and How to Overcome Them by
+german Edge Cloud, a panel discussion on Building Sustainable Data Centers and
+Making Multicloud Happen.</p><p>If you will be visiting CloudFest, be sure you stop at the CloudStack booth!</p><img loading="lazy" src="/img/imported/603f0617-7dce-4a70-a2e0-f9785f247a6a" class="img_ev3q">]]></content>
+        <author>
+            <name>Ivet Petrova</name>
+            <uri>https://twitter.com/Ivet_H_Petrova</uri>
+        </author>
+        <category label="news" term="news"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apache CloudStack 4.18.0.0 LTS Release]]></title>
         <id>https://cloudstack.apache.org/blog/apache-cloudstack-4-18-0</id>
