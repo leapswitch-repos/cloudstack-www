@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Apache CloudStack CloudMonkey 6.3.0 Release]]></title>
-            <link>https://cloudstack.apache.org/blog/cloudstack-6.3-release</link>
-            <guid>https://cloudstack.apache.org/blog/cloudstack-6.3-release</guid>
+            <link>https://cloudstack.apache.org/blog/cloudmonkey-6.3-release</link>
+            <guid>https://cloudstack.apache.org/blog/cloudmonkey-6.3-release</guid>
             <pubDate>Wed, 10 May 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[We are pleased to announce the release of Apache CloudStack CloudMonkey v6.3.0,]]></description>
             <content:encoded><![CDATA[<p><img loading="lazy" src="/assets/images/banner-00cffd639418c48fde1f4c479259e9b6.svg" title="CloudMonkey Image" width="1484" height="363" class="img_ev3q"></p><p>We are pleased to announce the release of Apache CloudStack CloudMonkey v6.3.0,

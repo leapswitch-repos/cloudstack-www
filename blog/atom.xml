@@ -9,8 +9,8 @@
     <icon>https://cloudstack.apache.org/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Apache CloudStack CloudMonkey 6.3.0 Release]]></title>
-        <id>https://cloudstack.apache.org/blog/cloudstack-6.3-release</id>
-        <link href="https://cloudstack.apache.org/blog/cloudstack-6.3-release"/>
+        <id>https://cloudstack.apache.org/blog/cloudmonkey-6.3-release</id>
+        <link href="https://cloudstack.apache.org/blog/cloudmonkey-6.3-release"/>
         <updated>2023-05-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[We are pleased to announce the release of Apache CloudStack CloudMonkey v6.3.0,]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" src="/assets/images/banner-00cffd639418c48fde1f4c479259e9b6.svg" title="CloudMonkey Image" width="1484" height="363" class="img_ev3q"></p><p>We are pleased to announce the release of Apache CloudStack CloudMonkey v6.3.0,
