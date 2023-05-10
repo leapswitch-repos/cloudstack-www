@@ -32,19 +32,6 @@ better.</p><p>Thank you for your continued support of Apache CloudStack CloudMon
         <category label="announcement" term="announcement"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Test Blog]]></title>
-        <id>https://cloudstack.apache.org/blog/test-blog</id>
-        <link href="https://cloudstack.apache.org/blog/test-blog"/>
-        <updated>2023-05-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem Ipsum]]></summary>
-        <content type="html"><![CDATA[<p><img loading="lazy" src="/assets/images/header-65649d383abee10a06d7b6222ed5b49c.jpg" title="Blog Header Image" width="1172" height="345" class="img_ev3q"></p><h2>Lorem Ipsum</h2><p>Add content here</p><a href="https://cloudstack.apache.org/" target="_blank" rel="noopener noreferrer" class="button button--primary">BUTTON</a>]]></content>
-        <author>
-            <name>Ivet Petrova</name>
-            <uri>https://github.com/IvetPM</uri>
-        </author>
-        <category label="news" term="news"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Meet Rohit Yadav - the new VP of Apache CloudStack]]></title>
         <id>https://cloudstack.apache.org/blog/meet-rohit-yadav-the-new</id>
         <link href="https://cloudstack.apache.org/blog/meet-rohit-yadav-the-new"/>

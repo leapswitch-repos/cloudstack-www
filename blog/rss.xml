@@ -29,15 +29,6 @@ better.</p><p>Thank you for your continued support of Apache CloudStack CloudMon
             <category>announcement</category>
         </item>
         <item>
-            <title><![CDATA[Test Blog]]></title>
-            <link>https://cloudstack.apache.org/blog/test-blog</link>
-            <guid>https://cloudstack.apache.org/blog/test-blog</guid>
-            <pubDate>Wed, 10 May 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem Ipsum]]></description>
-            <content:encoded><![CDATA[<p><img loading="lazy" src="/assets/images/header-65649d383abee10a06d7b6222ed5b49c.jpg" title="Blog Header Image" width="1172" height="345" class="img_ev3q"></p><h2>Lorem Ipsum</h2><p>Add content here</p><a href="https://cloudstack.apache.org/" target="_blank" rel="noopener noreferrer" class="button button--primary">BUTTON</a>]]></content:encoded>
-            <category>news</category>
-        </item>
-        <item>
             <title><![CDATA[Meet Rohit Yadav - the new VP of Apache CloudStack]]></title>
             <link>https://cloudstack.apache.org/blog/meet-rohit-yadav-the-new</link>
             <guid>https://cloudstack.apache.org/blog/meet-rohit-yadav-the-new</guid>
