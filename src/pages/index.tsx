@@ -26,6 +26,7 @@ highly available, highly scalable Infrastructure as a Service (IaaS)
 cloud computing platform.</p>
                     <div class="center-buttons">
                         <a href="#" class="btn btn-light btn-size">Download</a>
+			&nbsp;
                         <a href="#" class="btn btn-outline-light btn-size">Documentation</a>
                         <p class="small mt-3">Apache CloudStack 4.18.0.0 is out!</p>
                     </div>
@@ -327,7 +328,7 @@ content to our blog or join the Meet the Community Video Series.</p>
 Apache CloudStack User Survey and help us build the Annual State of
 CloudStack Report. This survey will take you less than 5 minutes to
 complete. Your input is vital for the CloudStack Community!</p>
-                            <div class="center-buttons"><a href="#" class="btn btn-outline-secondary btn-size">Learn More</a></div>
+                            <div class="center-buttons"><a href="/survey" class="btn btn-outline-secondary btn-size">Learn More</a></div>
                         </div>
                         <div class="col-lg-6 text-center"><img src="img/CloudStack_survey.png" class="img-fluid mt-5"/></div>
                     </div>
